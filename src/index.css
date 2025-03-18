@@ -1,0 +1,12 @@
+:root {
+ 
+}
+
+.body {
+  font-size: 10;
+}
+
+/* 编辑框高度 */
+.ant-splitter-panel > pre {
+ height: 100%;
+}
